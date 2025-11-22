@@ -1,0 +1,9 @@
+Operators
+    ex : 
+    a = 51
+    b = a
+    a % 10 = a   # 1
+    b // 10 = b  # 5
+
+    print(a * 10 + b)
+type casting between all datatypes.

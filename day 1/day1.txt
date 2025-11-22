@@ -1,0 +1,127 @@
+✒︎ application of python 👉🏻
+    1. Ai and Ml.
+    2. Web Development.
+    3. automation and scripting
+    4. app Development
+    5. Scintific Computation
+
+
+✒︎ libraries in python 👉🏻
+    1. pandas
+    2. numpy
+    3. matplotlib
+    4. seabon(advance version of matploatlib)
+    5. sicit learn
+    6. open cv
+
+
+✒︎ Application of python 👉🏻
+    1. Instagram (backend uses Django, a Python framework)
+    2. YouTube (some features and scripts use Python)
+    3. Dropbox (desktop client is built with Python)
+    4. Spotify (data analysis and backend services)
+    5. Reddit (originally written in Python)
+    6. Google (uses Python for various internal tools)
+    7. NASA (scientific computing and scripting)
+    8. Pinterest (backend services)
+    9. Quora (backend built with Python)
+    10. Netflix (automation, data analysis, backend services)
+
+
+✒︎ python developer 👉🏻
+    1. Python Developer: Guido van Rossum
+    2. Date of Python First Version Release: 20 February 1991
+
+
+✒︎ Variable 👉🏻
+    A variable in Python is a name that is used to store data values.
+    It acts as a container for information that can be referenced and manipulated in a program.
+
+    ✎ Rules of declaring variable :
+        1. Variable names can contain letters, numbers, and underscores (_).
+        2. Variable names must start with a letter or underscore, not a number.
+        3. Variable names are case sensitive (age, Age, and AGE are different).
+        4. Do not use Python reserved keywords as variable names.
+        5. Spaces are not allowed in variable names.
+
+
+✒︎ Operators 👉🏻
+    Operators are special symbols used to perform operations on variables and values.
+
+    ✍︎ Types of Operators:
+
+    ✦ Arithmetic Operators: +, -, *, /, %, , **
+    Example: a + b, a * b
+
+    ✦ Assignment Operators: =, +=, -=, *=, /=, etc.
+    Example: a = 5, a += 2
+    
+    ✦ Comparison Operators: ==, !=, >, <, >=, <=
+    Example: a == b, a > b
+    
+    ✦ Logical Operators: and, or, not
+    Example: a > 5 and b < 10
+    
+    ✦ Bitwise Operators: &, |, ^, ~, <<, >>
+    Example: a & b, a << 2
+    
+    ✦ Membership Operators: in, not in
+    Example: 'x' in list
+    
+    ✦ Identity Operators: is, is not
+    Example: a is b, a is not b 
+
+✒︎ Keywords 👉🏻
+    import keyword
+    print(keyword.kwlist)
+
+    1. False 
+    2. True 
+    3. None 
+    4. and 
+    5. or 
+    6. not 
+    7. if
+    8. else 
+    9. elif
+    10. while 
+    11. for
+    12. break
+    13. continue 
+    14. def
+    15. return 
+    16. class 
+    17. try
+    18. except 
+    19. import 
+    20. from 
+    21. as
+    22. pass 
+    23. with
+    24. lambda 
+    25. global
+    26. nonlocal 
+    27. assert 
+    28. yield 
+    29. del 
+    30. raise
+    31. finally 
+    32. in 
+    33. is
+    34. match
+    35. case
+
+✒︎ Date Types 👉🏻
+    int : it is intrgers.
+    float : it is for decimal numbers.
+    string : whatever inside ' ' or " ".
+    list : data is stored in '[ ]' seperated by ' , '.
+    tuple : data is stored in '( )' and seperated by ' , '.
+    set : data is stored in '{ }' and seperated by ' , '.
+    dict : data is stored in '[ ]' and seperated by ' , ' and accesed by it's keys.
+    bool : True and False valu pe work karta hai.
+    complex : 4 + 8j only j variable is treated as complex number.
+
+    
+    *litral.
+    *identifiers.

@@ -1,0 +1,28 @@
+name, clg, degree, cgpa.
+technical skills.
+projects.
+certification.
+Achivements.
+about my personality.
+
+
+
+
+
+What is Python and why is it popular?
+
+python is a high level interpreted programing language. used in all fields and mostly used for AIML and gui applications.
+
+it is used for:
+games.
+AIML.
+web apps.
+static apps.
+and many more.
+
+Explain the difference between lists and tuples.
+
+list is mutable and tuple is immutable. they are collection of different data types. 
+list is slow in dynamically resizing .
+tuple is fixed in size and fast in performance.
+

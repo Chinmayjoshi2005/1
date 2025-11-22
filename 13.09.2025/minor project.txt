@@ -1,0 +1,9 @@
+1. Web Application :
+    Do not use API.
+    Live Hosting.
+
+2. IOT + Mobile App.
+
+3. Core IOT Project + AI + ML.
+
+4. 
